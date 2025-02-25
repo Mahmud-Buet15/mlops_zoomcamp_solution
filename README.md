@@ -1,1 +1,1 @@
-## Solution for MLOPS zoomcamp
+## Solution for MLOps zoomcamp
