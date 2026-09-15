@@ -7,8 +7,8 @@
 - Configure experiment tracker 
     - on local machine's **./mlruns** directory: `mlflow server`
     - on sqlite server `mlflow server --backend-store-uri sqlite://mlflow.db`
-
-
+- Check which processes are running on port 5000: `lsof -i :5000`
+  - Kill processes: `kill -9 p1 p2 p3`
 
 ### Notes
 - **01_duration_prediction.ipynb**  

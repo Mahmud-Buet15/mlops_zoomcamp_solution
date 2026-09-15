@@ -17,3 +17,6 @@ env_mlops_zoomcamp_solution
 
 02-experiment-tracking/running-mlflow-examples/artifacts_local
 02-experiment-tracking/running-mlflow-examples/*.db
+
+
+**/.DS_Store
